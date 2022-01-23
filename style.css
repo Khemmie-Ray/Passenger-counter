@@ -1,0 +1,67 @@
+.container{
+    width: 450px;
+    height: 500px;
+    margin: 30px auto;
+    text-align: center;
+    position: relative;
+}
+
+.bg {
+    background: url("images/chris-yang-H73k0IUQbn0-unsplash.jpg");
+    background-size: cover;
+    width: 450px;
+    height: 500px;
+    margin: 30px auto;
+    opacity: 0.5;
+}
+
+#increment-btn {
+    font-size: 20px;
+    padding: 10px 0;
+    border: none;
+    background-color: darkred;
+    color: white;
+    border-radius: 5px;
+    width: 250px;
+    margin-bottom: 10px;
+    font-family: 'Sora', sans-serif;
+}
+
+#save-btn {
+    font-size: 20px;
+    padding: 10px 0;
+    border: none;
+    background-color: darkgreen;
+    color: white;
+    border-radius: 5px;
+    width: 250px;
+    margin-bottom: 10px;
+    font-family: 'Sora', sans-serif;
+}
+
+.col {
+    position: absolute;
+    top: 0;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: 'Roboto Slab', serif;
+}
+
+h2 {
+    font-size: 40px;
+    margin-bottom: 30px;
+    font-family: 'Roboto Slab', serif;
+}
+
+p {
+    font-weight: bold;
+    font-size: 25px;
+    font-family: 'Sora', sans-serif;
+}
+
+.credits {
+    font-family: 'Sora', sans-serif;
+    font-size: 12px;
+}
